@@ -10,6 +10,6 @@ It consisted of an unbalanced dataset of 450,000 rows with 97:3 being the ratio 
 
 ## Data Analysis Report:
 
-In this repo: Team Neural Demons.pdf
+In this repo: https://github.com/yash-shimpi/Cascade-Cup-Neural-Demons/blob/main/Team%20Neural%20Demons.pdf
 
 Problem statement stated to prepare a report analyzing the data we had been given. Using various MatPlotLib methods, explored relations between cancellation and various other factors given in the data. Essentially divided into 3 sub reports, rider analysis, order analysis, rider-order analysis. 
